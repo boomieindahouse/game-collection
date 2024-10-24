@@ -2,6 +2,8 @@
     display: grid;
     grid-template-columns: repeat(3, 100px);
     gap: 10px;
+    justify-content: center;
+    padding-bottom: 30px;
 }
 
 .square {
